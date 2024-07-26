@@ -1,0 +1,1055 @@
+@media only screen and (max-width:1800px) {}
+
+@media only screen and (max-width:1660px) {
+
+
+	h1,
+	.banner-top-heading h2 {
+		font-size: 5.5rem !important;
+		line-height: 7rem !important;
+		max-width: 100% !important;
+	}
+
+	.heroslider-main {
+		height: auto;
+	}
+
+	.heroslider-main .swiper-slide {
+		padding: 40rem 0;
+	}
+
+	.container {
+		padding-left: 5rem;
+		padding-right: 5rem;
+	}
+
+
+
+}
+
+@media only screen and (max-width:1560px) {
+
+	.tab-height-block .specialize-tab-btn {
+		max-width: 25%;
+		flex-shrink: 0;
+	}
+
+	.banner-top-heading {
+		margin-bottom: 4rem;
+	}
+
+	.counter-stats-main {
+		gap: 1.5rem;
+	}
+
+	.counter-box {
+		padding: 2.3rem;
+		font-size: 5rem;
+	}
+
+	.counterbox-right-icon {
+		width: 10rem;
+		height: 10rem;
+	}
+
+	.heroslider-main .swiper-slide {
+		padding: 35rem 0;
+	}
+
+	.container {
+		max-width: 94% !important;
+		margin: 0 auto !important;
+		padding-left: 5rem !important;
+		padding-right: 5rem !important;
+	}
+
+	.menu-link[aria-haspopup="true"] {
+		padding-right: 20px !important;
+	}
+
+	.menu-link[aria-haspopup="true"]:after {
+		right: 0px !important;
+	}
+
+}
+
+
+
+@media only screen and (max-width:1440px) {
+
+	.author-info-mainblock {
+		font-size: 1.8rem;
+		padding: 1.5rem;
+		width: 95%;
+	}
+
+	h1,
+	.banner-top-heading h2 {
+		font-size: 5.5rem !important;
+		line-height: 7rem !important;
+	}
+
+
+
+
+	.blog-articles-main-block h3 {
+		max-width: 100%;
+	}
+
+
+
+
+	.banner-top-heading h1,
+	.banner-top-heading h2 {
+		max-width: 100%;
+	}
+
+
+
+
+	.counterbox-left {
+		font-size: 4rem;
+	}
+
+	.counterbox-right-icon {
+		width: 10rem;
+		height: 10rem;
+		padding: 2rem;
+	}
+
+
+
+
+}
+
+@media only screen and (max-width:1400px) {
+	.counter-stats-main {
+		gap: 2rem;
+	}
+
+	.counter-box .counterbox-info {
+		font-size: 1.6rem;
+	}
+
+	.counterbox-left .counter {
+		font-size: 4rem;
+	}
+
+	.counterbox-right-icon {
+		width: 8rem;
+		height: 8rem;
+		padding: 1.5rem;
+	}
+
+}
+
+@media only screen and (max-width:1366px) {
+
+
+
+
+	.searchjob-buttons-block .border-btn {
+		margin-right: 1rem;
+	}
+
+	.banner-top-heading {
+		margin-bottom: 6rem;
+	}
+
+	h1,
+	.banner-top-heading h2 {
+		font-size: 5rem !important;
+		line-height: 5.5rem !important;
+	}
+}
+
+
+
+@media only screen and (max-width:1280px) {
+
+	.searchjob-buttons-block .border-btn {
+		font-size: 1.8rem;
+		padding: 1rem 2rem 1rem 2rem;
+	}
+
+
+
+
+	.leadership-main-leaders-block .author-info-mainblock {
+		width: 94%;
+	}
+
+	.leadership-main-leaders-block .orange-down-arrow-team {
+		flex-shrink: 0;
+	}
+
+	.leadership-main-leaders-block {
+		margin-top: 0;
+	}
+
+
+
+	h2 {
+		font-size: 3.2rem;
+		line-height: 4rem;
+	}
+
+	.inner-banner-block {
+		padding-bottom: 5rem;
+	}
+
+	.home-tab-left-block a {
+		margin-top: 1rem;
+	}
+
+	.weSpecialize-main-block {
+		padding-bottom: 10rem;
+	}
+
+
+	.tab-height-block .specialize-tab-btn {
+		max-width: 35%;
+		flex-shrink: 0;
+	}
+
+
+
+	.mobile-menu-trigger .fa-times {
+		display: none;
+	}
+
+	.mobile-menu-trigger .fa-bars {
+		color: #fff;
+	}
+
+	.mobile-menu-trigger-active .fa-times {
+		display: block;
+		color: #023047;
+	}
+
+	.mobile-menu-trigger-active .fa-bars {
+		display: none;
+	}
+
+	.blog-articles-main-block h2 {
+		max-width: 100%;
+	}
+
+	.blog-latest-big-post .insight-card-box p {
+		max-width: 100%;
+
+	}
+
+	.searchjob-buttons-block .border-btn {
+		margin-right: 2rem;
+	}
+
+	.testimonial-main-block .services-heading-info p {
+		margin-top: 1rem;
+		margin-bottom: 2rem;
+	}
+
+
+	.registerd-address-box,
+	.registered-office-left-address h2 {
+
+		max-width: 100%;
+	}
+
+	.registerd-office-image-block {
+		margin-top: 0;
+	}
+
+
+
+
+
+
+
+	.banner-progressbar-line {
+		padding-bottom: 5rem;
+	}
+
+	.discover-rodic-main {
+		border-top-right-radius: 0;
+		margin-top: 0;
+	}
+
+	.menu-link {
+		padding: 16px 16px !important;
+	}
+
+	.clients-logo-block ul {
+		gap: 6rem;
+	}
+
+	.home-tab-left-block h3 {
+		font-size: 3rem;
+	}
+
+	.explorecasestudy-btn {
+		position: relative;
+	}
+
+
+
+	.services-heading-info p {
+		width: 100%;
+	}
+
+	.heroslider-main .swiper-slide {
+		padding: 28rem 0;
+	}
+
+	p.progressbar-subheading {
+		font-size: 1.6rem;
+	}
+
+	.casestudies-main-block {
+		margin-top: 0;
+	}
+
+	.services-main-block {
+		padding-bottom: 10rem;
+	}
+
+	.testimonial-main-block {
+		padding-bottom: 10rem;
+	}
+
+}
+
+
+
+
+@media only screen and (max-width:1199px) {
+
+	.discovercarrier-rightbg {
+		float: left;
+		width: 100%;
+		justify-content: center;
+		height: 56.25vw;
+		padding-left: 0px;
+		padding-right: 0px;
+		position: relative;
+	}
+
+	.discovercarrier-rightbg img {
+		position: absolute;
+		width: 100%;
+	}
+
+
+	.tab-height-block {
+		height: 100vw;
+		min-height: 100vh;
+	}
+
+	.banner-top-heading {
+		margin-bottom: 4rem;
+	}
+
+	.casestudy-slider-main .casestudy-box .service-box-hover {
+		padding: 2rem;
+	}
+
+	.service-listing-main-block .service-card-box {
+		margin-bottom: 3rem;
+	}
+
+
+	.casestudy-slider-main .swiper-pagination-progressbar {
+		width: 85% !important;
+	}
+
+	.discover-carrer-block .carrier-heading {
+		margin-bottom: 1rem;
+	}
+
+	.carrier-bg-sec .carrier-heading {
+		margin-bottom: 4rem;
+	}
+
+	.carrier-bg-sec .carrier-heading p {
+		margin-bottom: 2rem;
+	}
+
+	.counter-box {
+		flex: 49%;
+	}
+
+	.counter-stats-main {
+		gap: 1rem;
+
+	}
+
+	.blog-latest-big-post .insight-card-box p {
+		font-size: 2.5rem;
+		line-height: 3.5rem;
+		font-weight: bold;
+	}
+
+	.insights-main-block {
+		padding-bottom: 10rem;
+	}
+
+	.discovercarrier-rightbg {
+		float: left;
+		width: 100%;
+		justify-content: center;
+	}
+
+	.other-service-box p {
+		margin: 0 0 0 1rem;
+	}
+
+
+
+
+	.regional-office-wrap {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+
+
+	.carrier-bg-sec {
+		padding-top: 0;
+	}
+
+	.discover-carrer-block {
+		background: #f4f3ee;
+	}
+
+	li.head-contact-btn {
+		margin-left: 1rem;
+	}
+
+	.home-tab-left-block {
+		margin-bottom: 3rem;
+	}
+
+	.discovercarrier-rightbg {
+		margin-top: 0;
+	}
+
+
+	.service-box-hover,
+	.servicebox-default-heading-main {
+		padding: 2rem 2rem;
+	}
+
+	h1 {
+		font-size: 4rem !important;
+		line-height: 5rem !important;
+		margin-bottom: 0;
+
+	}
+
+	.banner-top-heading h2,
+	.banner-top-heading h1 {
+		font-size: 4rem !important;
+		line-height: 5rem !important;
+	}
+
+
+
+	.padding-130 {
+		padding: 10rem 0;
+	}
+
+	.container {
+		max-width: 100%;
+	}
+
+
+}
+
+
+@media only screen and (max-width:1024px) and (min-width:768px) {
+
+	.homevideos-btn-block span {
+		width: 100%;
+		margin-bottom: 2rem;
+	}
+
+	.homevideos-btn-block {
+		flex-direction: column;
+		justify-content: flex-start;
+		width: auto;
+	}
+
+
+	h2 {
+		font-size: 3.2rem;
+	}
+
+	.testimonial-main-block {
+		padding-bottom: 10rem;
+	}
+
+	.insights-main-block {
+		padding-top: 0;
+	}
+
+	.author-info-mainblock {
+		line-height: 2.2rem;
+	}
+
+	.inner-banner-block {
+		padding-top: 30rem;
+		padding-bottom: 5rem;
+		position: relative;
+	}
+
+	.tab-height-block .specialize-tab-btn {
+		max-width: 40% !important;
+	}
+
+	.tab-height-block {
+		height: 100vw;
+	}
+}
+
+
+
+
+@media only screen and (max-width:1024px) {
+
+	.service-box-main:hover .service-box-hover img {
+		width: 40px;
+	}
+
+	.carrier-bg-sec {
+		padding-bottom: 0;
+	}
+
+	.footer-bottom-links ul li a {
+		font-size: 2.2rem;
+	}
+
+	.tab-height-block .specialize-tab-btn {
+		max-width: 70%;
+		flex-shrink: 0;
+	}
+
+	.servicebox-default-heading img {
+		display: none;
+	}
+
+	.casestudies-info-text {
+		margin-left: 1rem;
+	}
+
+	.padding-right-50 {
+		padding-right: 2rem !important;
+	}
+
+	.about-section-even .company-overview-info {
+		padding-right: 2rem;
+	}
+
+	.company-info-block-main .company-overview-info {
+		padding-left: 2rem;
+	}
+
+	.carrier-heading {
+		margin-bottom: 2rem;
+	}
+
+	.banner-top-heading h2,
+	.banner-top-heading h1 {
+		text-shadow: none;
+	}
+
+	.progressbar-subheading {
+		display: none;
+	}
+
+	.heroslider-main {
+		height: auto;
+	}
+
+	.heroslider-main .swiper-slide {
+		padding: 32rem 0;
+	}
+
+
+	.slidernumber-count {
+		display: none;
+	}
+
+	body .progressbar-subheading {
+		font-size: 1.6rem;
+		line-height: 2rem;
+	}
+
+
+
+
+
+
+	.home-video-mainblock .swiper-pagination-progressbar,
+	.casestudy-slider-main .swiper-pagination-progressbar {
+		display: none;
+	}
+
+
+
+	.casestudy-slider-main .swiper-button-prev {
+		right: 8rem !important;
+	}
+
+}
+
+
+
+@media only screen and (max-width:990px) {
+
+	.awards-slider-main-block .company-overview-img figure {
+		min-height: 250px;
+		width: 100%;
+		height: 300px;
+	}
+
+	.awards-slider-main-block .company-overview-img {
+		margin-bottom: 0;
+	}
+
+	.awards-slider-info-block h5 {
+		margin-bottom: 1rem;
+	}
+
+	.testimonial-author-image-box:hover {
+		transform: none;
+	}
+
+	.about-leader-info-box-desktop {
+		display: none;
+	}
+
+	.about-leader-info-box-mobile {
+		display: block;
+	}
+
+	.desktop-navigation-main {
+		background-position: bottom center;
+	}
+
+
+	.others-btn {
+		max-width: 75% !important;
+		padding: 6px !important;
+	}
+
+	/* .other-service-box {
+		min-height: auto;
+	} */
+
+	.casestudy-slider-main .service-box-hover .servicebox-default-heading {
+		margin-bottom: 2rem;
+	}
+
+	.casestudies-main-block .casestudies-hover-text div {
+		display: none;
+	}
+
+
+	.padding-left-50 {
+		padding-left: 15px !important;
+	}
+
+	.innerpage-left-image-block {
+		margin-bottom: 3rem;
+	}
+
+	.padding-left-50 {
+		padding-left: 15px !important;
+	}
+
+	.innerpage-left-image-block {
+		margin-bottom: 3rem;
+	}
+
+
+	.orange-quote-text {
+		flex-direction: column;
+	}
+
+	.quote-icon {
+		background-size: 70%;
+		background-repeat: no-repeat;
+	}
+
+	.company-info-block-main:last-child {
+		padding-bottom: 5rem !important;
+	}
+
+	.company-info-block-main {
+		padding-bottom: 0 !important;
+	}
+
+	.company-overview-img figure,
+	.company-overview-img figure img,
+	.home-tab-right-block img,
+	.innerpage-left-image-block img {
+		min-height: auto;
+	}
+
+	.company-overview-info {
+		margin-bottom: 3rem;
+	}
+
+
+	.home-tab-left-block a {
+		margin-top: 1rem;
+	}
+
+	.tab-columns {
+		margin-top: 3rem;
+	}
+
+	.casestudy-tab-main .col {
+		max-width: 70%;
+	}
+
+	.counter-box .counterbox-info {
+		font-size: 1.8rem;
+	}
+
+	p {
+		font-size: 2.6rem;
+		line-height: 3.7rem;
+	}
+
+	.discover-rodic-main p {
+		margin-bottom: 2rem;
+	}
+
+	.footerlinks-column {
+		margin-bottom: 3rem;
+	}
+
+	.container {
+		max-width: 98% !important;
+		margin: 0 auto !important;
+		padding-left: 3rem !important;
+		padding-right: 3rem !important;
+	}
+
+	.homevideos-btn-block {
+		flex-direction: column;
+		justify-content: flex-start;
+		width: auto;
+	}
+
+	.homevideos-btn-block span {
+		width: 100%;
+		margin-bottom: 2rem;
+	}
+
+	.insights-main-block .insights-card-box {
+		padding-left: 3rem !important;
+		padding-right: 0;
+	}
+
+	.insights-card-box:first-child {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	.ingisht-card-wrap {
+		margin-left: 0;
+	}
+
+	.heroslider-main .swiper-slide {
+		padding: 29rem 0;
+	}
+
+	.servicebox-default-heading-main img {
+		width: 30px;
+	}
+
+	.blog-latest-big-post .insight-card-box p {
+		font-size: 2rem;
+		line-height: 2.6rem;
+		font-weight: 400;
+	}
+
+	.blog-latest-big-post {
+		margin-bottom: 3rem;
+	}
+
+
+	.searchjob-buttons-block .border-btn {
+		margin-right: 0;
+		width: 100%;
+		align-items: center;
+		justify-content: space-around;
+	}
+
+	.registerd-office-image-block figure img {
+		height: 36rem;
+	}
+
+	.services-main-block .service-card-box {
+		max-width: 78%;
+	}
+
+	.insights-card-box {
+		padding: 0;
+		max-width: 75% !important;
+	}
+
+	.service-listing-main-block .service-card-box {
+		margin-bottom: 3rem;
+	}
+
+	.weSpecialize-main-block {
+		padding-bottom: 10rem;
+	}
+
+	.keyservice-offering-list {
+		margin-right: 0;
+		margin-bottom: 3rem;
+	}
+
+	.footer-top p {
+		margin-bottom: 3rem;
+	}
+
+	.testimonail-mobile-mb:last-child {
+		margin-bottom: 0;
+	}
+
+	.gallery-main .wide {
+		grid-column: 2;
+	}
+
+	.testimonail-mobile-mb {
+		margin-bottom: 3rem;
+	}
+
+	.padding-right-50 {
+		padding-right: 15px !important;
+	}
+
+	.home-tab-left-block {
+		padding-right: 15px !important;
+	}
+
+	.project-overview-right-block {
+		float: left;
+		margin-top: 3rem;
+	}
+
+	.company-info-block-main .company-overview-info {
+		padding-left: 15px;
+	}
+
+	.registered-office-left-address {
+		margin-bottom: 3rem;
+	}
+
+	.services-heading-info {
+		margin-bottom: 3rem;
+	}
+
+	.company-overview-img {
+		margin-bottom: 3rem;
+	}
+
+	.regional-office-wrap {
+		grid-template-columns: repeat(1, 1fr);
+		gap: 5rem;
+	}
+
+	.insight-card-box p {
+		width: 100%;
+		max-height: max-content;
+		min-height: auto;
+	}
+
+
+	.home-tab-left-block h3 {
+		font-size: 2.5rem;
+	}
+
+	.casestudy-slider-main .casestudy-box .service-box-hover {
+		padding: 2rem;
+	}
+
+	.searchjob-buttons-block {
+		flex-direction: column;
+		gap: 2rem;
+		align-items: flex-start;
+	}
+
+	.clients-logo-block ul {
+		gap: 3rem;
+	}
+
+	.clients-logo-block ul li {
+		flex: auto;
+	}
+
+
+
+	html {
+		font-size: 55%;
+	}
+
+	.rodic-counterstats-block {
+		margin-top: 3rem;
+	}
+
+}
+
+@media only screen and (max-width:767px) and (min-width:320px) {
+
+	.other-service-box {
+		padding: 2rem 2rem;
+		min-height: 100px;
+	}
+
+	.maintab-new {
+		padding: 3.5rem;
+	}
+
+	.banner-top-heading h1,
+	.banner-top-heading h2,
+	h1 {
+		font-size: 3.8rem !important;
+		line-height: 4.5rem !important;
+	}
+
+	h1 {
+		text-shadow: none;
+	}
+
+	.scrollbar-next-btn {
+		right: 0rem;
+	}
+
+	.scrollbar-previous-btn {
+		left: 0;
+	}
+
+	.open-menu {
+		max-width: 100% !important;
+		width: 100% !important;
+	}
+
+	.mobile-menu-trigger-active {
+		left: -2rem !important;
+		width: 100% !important;
+		top: 2rem !important;
+	}
+
+	.inner-banner-block {
+		padding-bottom: 5rem;
+		padding-top: 25rem;
+	}
+
+	.desktop-navigation-main .logo:after {
+		width: 320px;
+		height: 320px;
+	}
+
+	.banner-top-heading {
+		margin-bottom: 2rem;
+	}
+
+	.discover-rodic-main {
+		margin-top: 0;
+	}
+
+	.clients-logo-block .swiper-slide {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.testimonial-main-block {
+		margin-top: 0;
+	}
+
+	.casestudy-catg-btn {
+		top: 2rem;
+		left: 2rem;
+		width: 90%;
+		font-size: 1.8rem;
+	}
+
+	.casestudies-hover-text p {
+		display: none;
+	}
+
+	.casestudy-slider-main .service-box-hover .servicebox-default-heading {
+		margin-bottom: 2rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.casestudy-slider-main .service-box-hover .servicebox-default-heading {
+		margin-bottom: 2rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.footer-top h2 {
+		font-size: 4rem;
+		line-height: 5rem;
+	}
+
+	.gallery-main {
+		grid-template-columns: auto !important;
+		grid-auto-rows: auto;
+	}
+
+	.footer-top {
+		border-bottom-right-radius: 0;
+	}
+
+	.home-video-mainblock,
+	.casestudies-main-block {
+		margin-top: 0;
+	}
+
+
+
+
+
+
+
+	html {
+		font-size: 45%;
+	}
+
+
+
+	h2 {
+		font-size: 3.2rem;
+		line-height: 4rem;
+	}
+
+	.padding-100 {
+		padding: 5rem 0;
+	}
+
+	.carrer-topcontent-block {
+		padding-bottom: 5rem;
+	}
+
+	.case-studies-last {
+		padding-bottom: 5rem !important;
+	}
+
+
+
+}
